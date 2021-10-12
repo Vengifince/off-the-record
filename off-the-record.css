@@ -1,4 +1,5 @@
-.offtherecord {
+
+  .offtherecord {
   height: 550px; 
   width: 590px;
   background: #e2e2e2; 
@@ -66,7 +67,7 @@ background: linear-gradient(to right, var(--main) 0%, var(--accent) 100%);
  height: 70px; 
   width: 350px; 
   background: #f4f4f4;
-  margin-top: -200;
+  margin-top: -200px;
   margin-left: 10px; 
   border: 10px solid transparent;
   border-radius: 10px 10px 0px 0px;
@@ -215,7 +216,7 @@ flex-grow: 1;
     bottom: 340px;
     padding: 20px 50px;	
     text-align:right;
-    
+    line-height: 5px;
   }
   
   .offtherecord-bars b, i, u { 
@@ -341,8 +342,8 @@ border-radius: 10px;
 .offtherecord-thread label {
   height: 50px; 
   position: absolute;
-  left: 510;
-  top: 0;
+  left: 510px;
+  top: 0px;
   width: 80px;
   background: var(--main);
   line-height: 4; 
